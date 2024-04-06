@@ -1,1 +1,1 @@
-#IP oR DoMaIn 
+.IP oR DoMaIn 
