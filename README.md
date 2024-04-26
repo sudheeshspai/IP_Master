@@ -13,12 +13,12 @@ This tool helps identify the owner of a given IP address or domain name using va
 
 1. Clone the repository:
 
-   ```bash
+   ```
    git clone https://github.com/Sudheeshspai/ip-domain-owner-identification.git.IP oR DoMaIn 
 
 2. Navigate to the Repository Directory:
 
-    ```bash
+    ```
      cd ip-domain-owner-identification
  ## Requirements
 
@@ -32,13 +32,13 @@ This tool helps identify the owner of a given IP address or domain name using va
 - **Linux (Debian/Ubuntu)**
 
 
-              ```bash
+              ```
                   sudo apt update
                   sudo apt install python3
 
 
  
-**macOS**
+- **macOS**
 
 macOS usually comes with Python 2 pre-installed. For Python 3, you can use Homebrew:
       ```bash
@@ -46,15 +46,18 @@ macOS usually comes with Python 2 pre-installed. For Python 3, you can use Homeb
       
      brew install python3
 
-**Windows**
+- **Windows**
 
 For Windows, you can download the Python installer from the official website: Python Downloads
 
 Ensure to check the option "Add Python to PATH" during installation. After installation, you can verify by opening Command Prompt (cmd) and typing:
 
-     ```bash
+     ```
 
     python --version
+
+
+    
 
 
 
