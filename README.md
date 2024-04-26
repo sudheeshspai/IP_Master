@@ -27,11 +27,11 @@ This tool helps identify the owner of a given IP address or domain name using va
    Python whois library
 
    You can install the required library using pip: 
-# For python:
-To install Python on various operating systems, you can follow these instructions:
- Linux (Debian/Ubuntu)
+## For python:
+ **To install Python on various operating systems, you can follow these instructions:**
+_ **Linux (Debian/Ubuntu)**
 
-Python usually comes pre-installed on many Linux distributions. To install Python 3 using apt package manager, you can use:
+ Python usually comes pre-installed on many Linux distributions. To install Python 3 using apt package manager, you can use:
 
 bash
 
