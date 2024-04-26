@@ -15,11 +15,9 @@ This tool helps identify the owner of a given IP address or domain name using va
 
    ```bash
    git clone https://github.com/Sudheeshspai/ip-domain-owner-identification.git.IP oR DoMaIn 
-2. downlode the following :
-   - ** whois
-        ```bash
-   git clone
-       sudo apt-get install whois
+'''
+   git clone '''bash
+       sudo apt-get install whois '''
    sage
 
     Clone the Repository:
