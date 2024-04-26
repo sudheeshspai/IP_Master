@@ -23,10 +23,9 @@ This tool helps identify the owner of a given IP address or domain name using va
  ## Requirements
 
 - Python 3.x
-
 - Python whois library
-
-   You can install the required library using pip: 
+- python dns.resolver library
+- python nmap library
 ## For python:
  **To install Python on various operating systems, you can follow these instructions:**
 - **Linux (Debian/Ubuntu)**
@@ -50,7 +49,22 @@ This tool helps identify the owner of a given IP address or domain name using va
 
      ```
       python --version
+## For python whois library:
+ **To install Python on various operating systems, you can follow these instructions:**   
+- **Linux (Debian/Ubuntu):**
 
+  ```
+  sudo apt update
+  sudo apt install python3-pip  # Install pip for Python 3
+  pip3 install python-whois
+
+- **macOS:**
+   ```
+  pip3 install python-whois
+
+- **Windows:**
+   ```
+   pip install python-whois
 
     
 
