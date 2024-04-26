@@ -15,4 +15,4 @@ This tool helps identify the owner of a given IP address or domain name using va
 
    ```bash
    git clone https://github.com/Sudheeshspai/ip-domain-owner-identification.git.IP oR DoMaIn 
-**cd ip-domain-owner-identification
+_ **cd ip-domain-owner-identification
