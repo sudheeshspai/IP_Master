@@ -30,7 +30,6 @@ This tool helps identify the owner of a given IP address or domain name using va
  **To install Python on various operating systems, you can follow these instructions:**
 - **Linux (Debian/Ubuntu)**
   ```
-   sudo apt update
    sudo apt install python3 
 - **macOS**
   macOS usually comes with Python 2 pre-installed. For Python 3, you can use Homebrew:
