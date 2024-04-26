@@ -50,12 +50,10 @@ This tool helps identify the owner of a given IP address or domain name using va
      ```
       python --version
 ## For python whois library:
- **To install Python on various operating systems, you can follow these instructions:**   
+ 
 - **Linux (Debian/Ubuntu):**
 
   ```
-  sudo apt update
-  sudo apt install python3-pip  # Install pip for Python 3
   pip3 install python-whois
 
 - **macOS:**
@@ -65,6 +63,42 @@ This tool helps identify the owner of a given IP address or domain name using va
 - **Windows:**
    ```
    pip install python-whois
+   
+ ## For python dns.resolver library:
+- **Linux (Debian/Ubuntu):**
+
+  ```
+  pip3 install dnspython
+
+- **macOS:**
+   ```
+  pip3 install dnspython
+
+- **Windows:**
+   ```
+   pip install dnspython
+## For python nmap library:
+ 
+- **Linux (Debian/Ubuntu):**
+
+  ```
+  pip3 install python-nmap
+
+- **macOS:**
+   ```
+  pip3 install python-nmap
+
+- **Windows:**
+  ```
+    pip install python-nmap
+> [!NOTE]
+> More the secured site less the information we get.
+
+      
+   
+
+    
+
 
     
 
