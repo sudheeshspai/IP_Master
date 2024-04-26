@@ -18,43 +18,38 @@ This tool helps identify the owner of a given IP address or domain name using va
 
 2. Navigate to the Repository Directory:
 
-    ```
+     ```
      cd ip-domain-owner-identification
  ## Requirements
 
-   Python 3.x
+- Python 3.x
 
-   Python whois library
+- Python whois library
 
    You can install the required library using pip: 
 ## For python:
  **To install Python on various operating systems, you can follow these instructions:**
 - **Linux (Debian/Ubuntu)**
-
-
-              ```
-                  sudo apt update
-                  sudo apt install python3
+  ```
+   sudo apt update
+   sudo apt install python3
 
 
  
 - **macOS**
 
-macOS usually comes with Python 2 pre-installed. For Python 3, you can use Homebrew:
-      ```bash
-      
-      
-     brew install python3
+  macOS usually comes with Python 2 pre-installed. For Python 3, you can use Homebrew:
+  ```
+   brew install python3
 
 - **Windows**
 
-For Windows, you can download the Python installer from the official website: Python Downloads
+  For Windows, you can download the Python installer from the official website: Python Downloads
 
-Ensure to check the option "Add Python to PATH" during installation. After installation, you can verify by opening Command Prompt (cmd) and typing:
+  Ensure to check the option "Add Python to PATH" during installation. After installation, you can verify by opening Command Prompt (cmd) and typing:
 
      ```
-
-    python --version
+      python --version
 
 
     
