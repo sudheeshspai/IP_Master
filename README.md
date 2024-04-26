@@ -31,16 +31,11 @@ This tool helps identify the owner of a given IP address or domain name using va
 - **Linux (Debian/Ubuntu)**
   ```
    sudo apt update
-   sudo apt install python3
-
-
- 
+   sudo apt install python3 
 - **macOS**
-
   macOS usually comes with Python 2 pre-installed. For Python 3, you can use Homebrew:
   ```
    brew install python3
-
 - **Windows**
 
   For Windows, you can download the Python installer from the official website: Python Downloads
@@ -69,11 +64,9 @@ This tool helps identify the owner of a given IP address or domain name using va
 
   ```
   pip3 install dnspython
-
 - **macOS:**
    ```
   pip3 install dnspython
-
 - **Windows:**
    ```
    pip install dnspython
@@ -83,11 +76,9 @@ This tool helps identify the owner of a given IP address or domain name using va
 
   ```
   pip3 install python-nmap
-
 - **macOS:**
    ```
   pip3 install python-nmap
-
 - **Windows:**
   ```
     pip install python-nmap
