@@ -1,4 +1,4 @@
-# IP Domain Owner Identification
+requirements.txt# IP Domain Owner Identification
 
 This tool helps identify the owner of a given IP address or domain name using various methods such as WHOIS lookup and reverse DNS lookup.
 
@@ -15,3 +15,5 @@ This tool helps identify the owner of a given IP address or domain name using va
 
    ```bash
    git clone https://github.com/Sudheeshspai/ip-domain-owner-identification.git.IP oR DoMaIn 
+cd ip-domain-owner-identification
+pip install -r requirements.txt
