@@ -14,7 +14,7 @@ This tool helps identify the owner of a given IP address or domain name using va
 1. Clone the repository:
 
    ```
-   git clone https://github.com/Sudheeshspai/IP_Maste                                                                                 
+   git clone https://github.com/sudheeshspai/IP_Master                                                                               
 
 2. Navigate to the Repository Directory:
 
