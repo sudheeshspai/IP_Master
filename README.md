@@ -14,7 +14,7 @@ This tool helps identify the owner of a given IP address or domain name using va
 1. Clone the repository:
 
    ```
-   git clone https://github.com/Sudheeshspai/ip-domain-owner-identification.git.IP oR DoMaIn 
+   git clone https://github.com/Sudheeshspai/IP_Maste                                                                                 
 
 2. Navigate to the Repository Directory:
 
@@ -69,7 +69,7 @@ This tool helps identify the owner of a given IP address or domain name using va
 - **Windows:**
    ```
    pip install dnspython
-## For python nmap library:
+##For python nmap library:
  
 - **Linux (Debian/Ubuntu):**
 
@@ -81,6 +81,14 @@ This tool helps identify the owner of a given IP address or domain name using va
 - **Windows:**
   ```
     pip install python-nmap
+  ##                    
+   For python nmap library:
+ 
+- **To run**
+
+  ```
+  cd IP_Maste
+  python3 ip_domain.py
 > [!NOTE]
 > More the secured site less the information we get.
 
